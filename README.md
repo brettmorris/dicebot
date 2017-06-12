@@ -51,7 +51,7 @@ After you have setup your bot and it works, install pkg.
 npm install -g pkg
 ```
 
-Then use the following to create the exe:
+Then use the following to create the exe
 ```
-pkg injdex.js
+pkg index.js
 ```
