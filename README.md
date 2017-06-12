@@ -1,6 +1,6 @@
 # DiceBot
 
-###### Dicebot is a simple Twitch.tv chatbot for handling dice roll commands. Dicebot is a nodejs app that uses [node-twitchbot](https://www.npmjs.com/package/node-twitchbot)
+##### Dicebot is a simple Twitch.tv chatbot for handling dice roll commands. Dicebot is a nodejs app that uses [node-twitchbot](https://www.npmjs.com/package/node-twitchbot)
 
 #### Setup
 
