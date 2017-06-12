@@ -2,7 +2,7 @@
 
 ##### Dicebot is a simple Twitch.tv chatbot for handling dice roll commands. Dicebot is a nodejs app that uses [node-twitchbot](https://www.npmjs.com/package/node-twitchbot)
 
-#### Setup
+### Setup
 
 After you have downloaded/cloned Dicebot you will need to enter your twitch credentials in the index.js file.
 
@@ -26,7 +26,7 @@ npm install
 node index.js
 ```
 
-#### Usage
+### Usage
 Dicebot supports up to 36 sided die with a maxium of 36 die. Dicebot will output the outcome of each dice being rolled as well as the sum of all dice rolled.
 
 Use: !`dice amount`d`number of sides`
@@ -42,7 +42,7 @@ Output:
 Dicebot: AwesomeUser123's 3d6: 2 5 3 Sum: 10
 ```
 
-#### Make an executable
+### Make an executable
 
 You can use [pkg](https://www.npmjs.com/package/pkg) or node-webkit to make your project into an exe file to easily run on your streaming box. In this example we will use pkg.
 
